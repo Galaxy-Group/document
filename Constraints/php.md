@@ -83,3 +83,5 @@
  * 自动加载规范
  * Http规范
  
+ # 参考
+ [PHP标准规范psr0-7](https://psr.phphub.org/)
