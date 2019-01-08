@@ -1,5 +1,5 @@
 <p align="center">
-       <img src="http://www.galaxy-immi.com/PC/img/public/logo1.png" width="200"  /> 
+      
 </p>
 
 银河移民Web开发项目包括官网平台，CRM平台等，通过本文档可快速了解整个项目的构成、开发流程以及开发过程中的规范，建议新手必读
